@@ -1,3 +1,7 @@
+#Info
+
+This is a slightly modified version of https://github.com/scttcper/ngx-toastr to resolve https://github.com/scttcper/ngx-toastr/issues/109
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/scttcper/ngx-toastr/master/misc/documentation-assets/ngx-toastr-example.png" width="300" alt="Angular Toastr">
   <br>
