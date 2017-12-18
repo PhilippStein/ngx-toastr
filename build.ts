@@ -1,6 +1,6 @@
 /* tslint:disable:import-blacklist */
 // from https://github.com/angular/angularfire2/blob/master/tools/build.js
-import { spawn } from 'child_process';
+import { spawn } from 'cross-spawn';
 import * as copyfiles from 'copy';
 import { copy } from 'fs-extra';
 import { rollup } from 'rollup';
